@@ -1,0 +1,324 @@
+[
+	{
+		"name": "back",
+        "src": "./images/Background.svg",
+        "alt": "background",
+        "className": "background",
+        "style_left": -1,
+        "style_top": 0,
+        "zIndex": "0",
+        "item_move": false,
+		"height": 67.5
+	},
+
+	{
+    	"name": "accountant_mark",
+        "src": "./images/Accountant_mark.svg",
+        "alt": "accountant_mark",
+        "className": "accountant_mark",
+        "style_left": 10,
+        "style_top": 9,
+        "zIndex": "0",
+        "item_move": false,
+    	"height": 22
+    },
+
+   	{
+        "name": "book",
+        "src": "./images/Book.svg",
+        "alt": "book",
+        "className": "book",
+        "style_left": 38,
+        "style_top": 43.5,
+        "zIndex": "3",
+        "item_move": false,
+		"height": 1.5
+    },
+
+	{
+        "name": "boxClosed",
+        "src": "./images/BoxClosed.svg",
+        "alt": "boxClosed",
+        "className": "boxClosed",
+        "style_left": 28,
+        "style_top": 41,
+        "zIndex": "6",
+        "item_move": false,
+		"height": 4.125
+    	},
+
+	{
+        "name": "boxOpen",
+        "src": "./images/BoxOpen.svg",
+        "alt": "boxOpen",
+        "className": "boxOpen",
+        "style_left": 27,
+        "style_top": 41,
+        "zIndex": "6",
+        "item_move": false,
+		"opacity": "0",
+		"height": 4.125
+    },
+
+	{
+        "name": "clock",
+        "src": "./images/Clock.svg",
+        "alt": "clock",
+        "className": "clock",
+        "style_left": 58,
+        "style_top": 5,
+        "zIndex": "2",
+        "item_move": false,
+		"height": 9.56
+    	},
+
+	{
+        "name": "interactiveBoard",
+        "src": "./images/InteractiveBoard.svg",
+        "alt": "interactiveBoard",
+        "className": "interactiveBoard",
+        "style_left": 40,
+        "style_top": 20,
+        "zIndex": "1",
+        "item_move": false,
+		"height": 25.81
+    },
+
+	{
+        "name": "key",
+        "src": "./images/Key.svg",
+        "alt": "key",
+        "className": "key",
+        "style_left": 30,
+        "style_top": 42,
+        "zIndex": "5",
+        "item_move": false,
+		"height": 2.22
+    },
+
+	{
+        "name": "woman_control",
+        "src": "./images/Woman_Control.svg",
+        "alt": "woman_control",
+        "className": "woman_control",
+        "style_left": 84,
+        "style_top": 24,
+        "zIndex": "5",
+        "item_move": false,
+		"opacity": 1,
+		"height": 42
+    },
+
+	{
+        "name": "woman",
+        "src": "./images/Woman.svg",
+        "alt": "woman",
+        "className": "woman",
+        "style_left": 84,
+        "style_top": 24,
+        "zIndex": "5",
+        "item_move": false,
+		"opacity": 0,
+		"height": 42
+    },
+
+	{
+        "name": "pieceOfPaper_one",
+        "src": "./images/PieceOfPaper_one.svg",
+        "alt": "pieceOfPaper_one",
+        "className": "pieceOfPaper one",
+        "style_left": 39.5,
+        "style_top": 40.7,
+        "zIndex": "6",
+        "item_move": true,
+		"height": 2.86
+    },
+
+	{
+        "name": "pieceOfPaper_two",
+        "src": "./images/PieceOfPaper_two.svg",
+        "alt": "pieceOfPaper_two",
+        "className": "pieceOfPaper two",
+        "style_left": 98,
+        "style_top": 60,
+        "zIndex": "6",
+        "item_move": true,
+		"height": 2.86
+    },
+
+	{
+        "name": "pieceOfPaper_three",
+        "src": "./images/PieceOfPaper_three.svg",
+        "alt": "pieceOfPaper_three",
+        "className": "pieceOfPaper three",
+        "style_left": 37,
+        "style_top": 64,
+        "zIndex": "6",
+        "item_move": true,
+		"height": 2.86
+    },
+
+	{
+        "name": "pieceOfPaper_four",
+        "src": "./images/PieceOfPaper_four.svg",
+        "alt": "pieceOfPaper_four",
+        "className": "pieceOfPaper four",
+        "style_left": 10,
+        "style_top": 61,
+        "zIndex": "6",
+        "item_move": true,
+		"height": 2.86
+    },
+
+	{
+        "name": "pieceOfPaper_five",
+        "src": "./images/PieceOfPaper_five.svg",
+        "alt": "pieceOfPaper_five",
+        "className": "pieceOfPaper five",
+        "style_left": 54,
+        "style_top": 63,
+        "zIndex": "4",
+        "item_move": true,
+		"height": 2.86
+    },
+
+	{
+        "name": "screen",
+        "src": "./images/Screen.svg",
+        "alt": "screen",
+        "className": "screen",
+        "style_left": 10,
+        "style_top": 34,
+        "zIndex": "6",
+        "item_move": false,
+		"height": 11.19
+    },
+
+	{
+        "name": "screen_locked_one",
+        "src": "./images/Screen_locked_one.svg",
+        "alt": "screen_locked_one",
+        "className": "screen_locked_one",
+        "style_left": 10,
+        "style_top": 34,
+        "zIndex": "5",
+        "item_move": false,
+		"opacity": 0,
+		"height": 11.19
+    },
+
+	{
+        "name": "screen_locked_two",
+        "src": "./images/Screen_locked_two.svg",
+        "alt": "screen_locked_two",
+        "className": "screen_locked_two",
+        "style_left": 10,
+        "style_top": 34,
+        "zIndex": "5",
+        "item_move": false,
+		"opacity": 0,
+		"height": 11.19
+    },
+
+	{
+        "name": "screen_unlocked",
+        "src": "./images/Screen_unlocked.svg",
+        "alt": "screen_unlocked",
+        "className": "screen_unlocked",
+        "style_left": 10,
+        "style_top": 34,
+        "zIndex": "5",
+        "item_move": false,
+		"opacity": 0,
+		"height": 11.19
+    },
+
+	{
+        "name": "shelf_close",
+        "src": "./images/Shelf_close.svg",
+        "alt": "shelf_close",
+        "className": "shelf_close",
+        "style_left": 102,
+        "style_top": 23,
+        "zIndex": "3",
+        "item_move": false,
+		"height": 34
+    },
+
+	{
+        "name": "shelf_open",
+        "src": "./images/Shelf_open.svg",
+        "alt": "shelf_open",
+        "className": "shelf_open",
+        "style_left": 87,
+        "style_top": 23,
+        "zIndex": "2",
+        "item_move": false,
+		"opacity": "0",
+		"height": 34
+    },
+
+	{
+        "name": "shelf_open_book",
+        "src": "./images/Shelf_open_book.svg",
+        "alt": "shelf_open_book",
+        "className": "shelf_open_book",
+        "style_left": 87,
+        "style_top": 23,
+        "zIndex": "2",
+        "item_move": false,
+		"opacity": "0",
+		"height": 34
+    },
+
+	{
+        "name": "shelf_close_book",
+        "src": "./images/Shelf_close_book.svg",
+        "alt": "shelf_close_book",
+        "className": "shelf_close_book",
+        "style_left": 102.2,
+        "style_top": 23,
+        "zIndex": "2",
+        "item_move": false,
+		"opacity": "0",
+		"height": 34
+    },
+
+	{
+        "name": "table",
+        "src": "./images/Table.svg",
+        "alt": "table",
+        "className": "table",
+        "style_left": 10,
+        "style_top": 37,
+        "zIndex": "2",
+        "item_move": false,
+		"height": 30.625
+    },
+
+	{
+        "name": "trash",
+        "src": "./images/Trash.svg",
+        "alt": "trash",
+        "className": "trash",
+        "style_left": 49,
+        "style_top": 58,
+        "zIndex": "5",
+        "item_move": false,
+		"state": 0,
+		"height": 8.8125
+    },
+
+	{
+        "name": "controller_white",
+        "src": "./images/Controller_white.svg",
+        "alt": "controller_white",
+        "className": "controller_white",
+        "style_left": 92.5,
+        "style_top": 40.2,
+        "zIndex": "6",
+        "item_move": false,
+		"opacity": 0,
+		"height": 5
+    }
+]
