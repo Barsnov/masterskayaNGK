@@ -71,3 +71,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Стек инструментов: Php, Js, html, css3, tailwindCss
 Фреймворки: Laravel, Vue (Option.api), Inertia.js
 Библиотеки: Отсутсвуют
+Особенность: Используется динамический компонент для подгрузки заднего фона.
