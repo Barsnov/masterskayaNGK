@@ -64,3 +64,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+Используется Laravel+Vue.js(Inertia.js, как "клей" для двух фреймворков). В качестве БД используется sqlite для локальных решений.
+Стек инструментов: Php, Js, html, css3, tailwindCss
+Фреймворки: Laravel, Vue (Option.api), Inertia.js
+Библиотеки: Отсутсвуют
